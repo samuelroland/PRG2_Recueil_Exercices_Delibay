@@ -1,0 +1,4 @@
+# This is the configuration used to connect to a live server
+domain = "live.plx.rs"
+port = 9120
+group_id = "https://github.com/PRG2-HEIGVD/PRG2_Recueil_Exercices"
