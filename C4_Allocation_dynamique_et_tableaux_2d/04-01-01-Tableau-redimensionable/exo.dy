@@ -1,0 +1,27 @@
+exo Tableau redimensionable
+
+Ecrivez un programme qui demande à l'utilisateur d'entrer des entiers jusqu'à ce qu'il entre autre chose qu'un entier. A ce moment là, il sort de sa boucle et affiche tous les entiers entrés. 
+
+Pour le réaliser, utilisez un tableau alloué dynamiquement dont vous doublez la capacité avec `realloc` dès que le nombre d'éléments qui doivent y être stockés dépasse sa capacité actuelle. 
+
+**N'oubliez pas de tester si les allocations dynamiques ont fonctionné et de libérer la mémoire en fin de programme.**
+
+check Petite liste d'entiers
+see Entrez un entier positif
+type 4
+see Entrez un entier positif
+type 2
+see Entrez un entier positif
+type 5
+see Entrez un entier positif
+type 7
+see Entrez un entier positif
+type 6
+see Entrez un entier positif
+type 3
+see Entrez un entier positif
+type 4
+see Entrez un entier positif
+type q
+see Vous avez entre: 4 2 5 7 6 3 4
+

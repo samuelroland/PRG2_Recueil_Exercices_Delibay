@@ -1,0 +1,19 @@
+exo Opérations I/O
+
+Écrivez un programme qui demande à l'utilisateur son prénom et son âge, 
+puis affiche un message de bienvenue avec ces informations.
+
+check Le message s'affiche une fois prénom puis agé entrés
+see Entrez votre prénom: 
+type Amélia
+see Entrez votre âge: 
+type 23
+see Bienvenue, Amélia! Vous avez 23 ans
+
+check Idem pour un autre prénom
+see Entrez votre prénom: 
+type Jonathan
+see Entrez votre âge: 
+type 52
+see Bienvenue, Jonathan! Vous avez 52 ans
+
