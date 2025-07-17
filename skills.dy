@@ -1,0 +1,26 @@
+skill Introduction
+dir C1_Introduction
+skill Bases
+dir C2_Bases
+skill Pointeurs
+dir C3_Pointeurs
+skill Allocation dynamique et tableaux 2d
+dir C4_Allocation_dynamique_et_tableaux_2d
+skill Chaînes de caractères
+dir C5_Chaines_de_caracteres
+skill Manipulation de bits
+dir C6_Bits
+skill Types avancés
+dir C7_Types_avancés
+skill Préprocesseur et compilation
+dir C8_Préprocesseur_et_compilation
+skill Fichiers
+dir C9_Fichiers
+skill Erreurs et tests
+dir C10_Erreurs_et_tests
+skill Structures de données
+dir C11_Structures_de_donnees
+skill Aspects avancés C
+dir C12_Aspects_avancés_C
+
+// TODO: peut-être qu'il y a moyen de découper en sous compétences ? surtout les compétences avec deux sujets.
